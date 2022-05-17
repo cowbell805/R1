@@ -8,7 +8,7 @@ me.takeoff()
 me.move_up(140)
 sleep(.5)
 # the drone will take off to a specific height and wait until further instructions
-me.move_forward(200)
+me.move_forward(470)
 sleep(.5)
 # the drone moves forward then pauses before traveling the rest of the given distance
 me.rotate_counter_clockwise(90)
